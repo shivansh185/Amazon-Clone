@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+  padding: 0;
+    border: border-box;
+}
+.slider ul{
+    display: flex;
+    overflow-y: hidden;
+}
+.hero{
+    width: 100%;
+  
+}
